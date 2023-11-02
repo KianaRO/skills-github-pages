@@ -1,6 +1,6 @@
-```yam1
+```ym1
 ---
-title: "Blog"
+title: "My-Blog"
 date: 2023-11-02
 ---
 ```
